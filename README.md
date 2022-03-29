@@ -44,7 +44,7 @@ reason to use the XMLHttpRequest API on a new project, but it is good to know ho
 
 ## Built With
 
-Good and reliable vanilla HTML and CSS.
+Good and reliable vanilla HTML and JS.
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [TS](https://www.typescriptlang.org/)
 * [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
