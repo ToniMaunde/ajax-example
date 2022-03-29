@@ -14,11 +14,12 @@ A simple repo showcasing ajax requests using native web APIs.
 ## Getting Started
 
 1. Clone this repository.
-2. Have something like [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) to run it more easily.
+2. Have something like [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) to run it more easily if you are going to use JavaScript.
+3. If you are going to use TypeScript, have Node.js installed and run **npm install**. Then run **npx tsc fetchApi.ts** and **npx tsc xmlHttpRequest.ts** to transpile them to JavaScript.
 
 ### Prerequisites
 
-Know HTML and JavaScript.
+Know HTML, JavaScript and a little bit of TypeScript (optional).
 
 ```
   Hit the MDN docs.
@@ -44,7 +45,7 @@ reason to use the XMLHttpRequest API on a new project, but it is good to know ho
 
 ## Built With
 
-Good and reliable vanilla HTML and JS.
+HTML, TS and JS.
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [TS](https://www.typescriptlang.org/)
 * [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
